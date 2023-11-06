@@ -35,10 +35,6 @@ cmake --build .
 ctest -V
 ```
 
-## Additional Resources
+## Watch the Tutorial
 
-Visit our [website](insert_website_link) for more in-depth articles and resources on C++ programming.
-
-For any questions or suggestions, feel free to leave a comment on the video or open an issue here.
-
-Happy coding! 🚀💻
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qoNHBCywqms/0.jpg)](https://www.youtube.com/watch?v=qoNHBCywqms)
